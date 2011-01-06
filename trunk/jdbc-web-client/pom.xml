@@ -6,6 +6,11 @@
 	<packaging>war</packaging>
 	<version>0.2-SNAPSHOT</version>
 	<name>jdbc-web-client</name>
+	<url>http://code.google.com/p/jdbc-web-client/</url>
+
+	<scm>
+		<connection>https://jdbc-web-client.googlecode.com/svn/trunk/jdbc-web-client</connection>
+	</scm>
 	
 	<dependencies>
         <dependency>
