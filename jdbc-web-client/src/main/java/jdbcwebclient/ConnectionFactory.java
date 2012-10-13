@@ -24,8 +24,6 @@ import javax.sql.DataSource;
 /**
  * @author baligand
  *
- * Pour changer le modèle de ce commentaire de type généré, allez à :
- * Fenêtre&gt;Préférences&gt;Java&gt;Génération de code&gt;Code et commentaires
  */
 public class ConnectionFactory {
 	
