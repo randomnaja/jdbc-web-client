@@ -1,0 +1,1 @@
+jdbc-web-client is a web application which enables you to explore, query, and update any SQL database
